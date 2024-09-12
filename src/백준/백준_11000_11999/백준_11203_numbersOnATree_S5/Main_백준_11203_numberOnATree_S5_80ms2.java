@@ -1,4 +1,4 @@
-package 백준.백준_11000_11999.백준_11203_numberOnATree_S5;
+package 백준.백준_11000_11999.백준_11203_numbersOnATree_S5;
 
 import java.io.BufferedReader;
 import java.io.IOException;
