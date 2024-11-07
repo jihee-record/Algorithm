@@ -61,6 +61,7 @@ public class Solution_SWEA_1824_혁진이의프로그램검증_D4 {
 				case "0":
 				case "1":
 				case "2":
+				
 				case "3": 
 				case "4": 
 				case "5": 
