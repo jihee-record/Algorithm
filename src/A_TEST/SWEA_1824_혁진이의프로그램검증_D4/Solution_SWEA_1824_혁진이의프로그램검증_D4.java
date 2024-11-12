@@ -1,4 +1,4 @@
-package SWEA.SWEA_1000_1999.SWEA_1824_혁진이의프로그램검증_D4;
+package A_TEST.SWEA_1824_혁진이의프로그램검증_D4;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
