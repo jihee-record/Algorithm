@@ -21,6 +21,7 @@ public class Main_백준_15681_트리와쿼리_G5_544ms {
 	    return size[currentNode];
     }
 	
+	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws Exception {
 	    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	    StringBuilder sb = new StringBuilder();

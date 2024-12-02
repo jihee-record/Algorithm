@@ -80,7 +80,8 @@ public class Solution_SWEA_1824_혁진이의프로그램검증_D4 {
         return false;
     }
 
-    public static void main(String[] args) throws Exception {
+    @SuppressWarnings("unchecked")
+	public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
         StringBuilder sb = new StringBuilder();

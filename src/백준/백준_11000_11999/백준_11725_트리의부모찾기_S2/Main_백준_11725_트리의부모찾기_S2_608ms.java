@@ -21,6 +21,7 @@ public class Main_백준_11725_트리의부모찾기_S2_608ms {
 	
 	
 	
+	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
