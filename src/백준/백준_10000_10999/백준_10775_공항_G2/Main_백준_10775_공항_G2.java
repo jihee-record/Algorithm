@@ -1,4 +1,4 @@
-package A_TEST.백준_10775_공항_G2;
+package 백준.백준_10000_10999.백준_10775_공항_G2;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
