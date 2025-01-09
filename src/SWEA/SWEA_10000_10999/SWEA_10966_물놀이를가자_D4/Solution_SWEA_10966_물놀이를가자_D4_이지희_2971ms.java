@@ -1,4 +1,4 @@
-package A_TEST.SWEA_10966_물놀이를가자_D4;
+package SWEA.SWEA_10000_10999.SWEA_10966_물놀이를가자_D4;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

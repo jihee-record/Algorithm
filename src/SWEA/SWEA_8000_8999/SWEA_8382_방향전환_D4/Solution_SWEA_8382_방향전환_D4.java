@@ -1,4 +1,4 @@
-package A_TEST.SWEA_8382_방향전환_D4;
+package SWEA.SWEA_8000_8999.SWEA_8382_방향전환_D4;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
