@@ -1,4 +1,4 @@
-package 백준.백준_10000_10999.백준_10815_숫자카드;
+package 백준.백준_10000_10999.백준_10815_숫자카드_S5;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.StringTokenizer;
 
-public class Main_백준_10815_숫자카드 {
+public class Main_백준_10815_숫자카드_S5 {
 	
 	public static void main(String[] args) throws IOException {
 		

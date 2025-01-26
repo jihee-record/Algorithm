@@ -1,4 +1,4 @@
-package A_TEST.SWEA_14362_무한로봇_D4;
+package SWEA.SWEA_14000_14999.SWEA_14362_무한로봇_D4;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

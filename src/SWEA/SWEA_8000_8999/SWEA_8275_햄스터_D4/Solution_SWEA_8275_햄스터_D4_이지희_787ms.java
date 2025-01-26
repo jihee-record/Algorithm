@@ -1,4 +1,4 @@
-package A_TEST.SWEA_8275_햄스터_D4;
+package SWEA.SWEA_8000_8999.SWEA_8275_햄스터_D4;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
