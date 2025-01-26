@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main_소프티어_징검다리_LV3 {
+public class Main_소프티어_징검다리_LV3_99ms {
 	
 	// left, right, mid : index
 	static int search(List<Integer> list, int no) {
