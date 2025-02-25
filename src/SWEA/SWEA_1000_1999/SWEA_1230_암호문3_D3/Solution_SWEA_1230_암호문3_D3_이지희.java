@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Solution_SWEA_1230_암호문3_D3_이지희_242ms {
+public class Solution_SWEA_1230_암호문3_D3_이지희 {
 	
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
