@@ -82,7 +82,7 @@ public class Solution {
 	}
 	
 	// ((x+y)^k) -(x^k + y^k)
-	// ((x+y)^k) + ((p-1)(x^k + y^k)) : 분자 고정
+	// ((x+y)^k) + ((p-1)(x^k + y^k)) : 분자 고정이므로 forall K, 모든 과정 동일
 	static void getBinaryPlus(StringBuilder sb, int end, String binaryStr) {
 		for(int i = 8; i < end + 8 ; i++) {
 			sb.append("+ ").append(i).append(" " ).append(i).append(" ").append(i+1).append("\n");
