@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
  
-public class Solution_SWEA_10726_이진수표현_D3_이지희_237ms {
+public class Solution_SWEA_10726_이진수표현_D3_이지희_126ms {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
