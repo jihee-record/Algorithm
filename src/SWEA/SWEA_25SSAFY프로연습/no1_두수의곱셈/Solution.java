@@ -64,9 +64,10 @@ public class Solution {
 		
 		// r(10) : 2
 		// 각각의 자리에 2^(2^i)
-		for(int i = 10 ; i < p_2_length + 10 ; i++) {
-			sb.append("^ ").append(i).append(" ").append(i+1).append("\n");
-		}
+		getBinaryMultiple(sb, p_2_length);
+//		for(int i = 10 ; i < p_2_length + 10 ; i++) {
+//			sb.append("^ ").append(i).append(" ").append(i+1).append("\n");
+//		}
 		  
 		// r(p_2_length + 10) = 2^(2^(p-2))
 		// p-2의 2진법에 따라 2^a + 2^b + 2^c , 2^(2^a+2^b+2^c) = 2^(2^a) * 2^(2^b) * 2^(2^c) > 덧셈 연산 이용
@@ -110,8 +111,10 @@ public class Solution {
 		sb.append("+ 3 3 10\n");
 	}
 	
-	static void getBinaryMultiple(StringBuilder sb, int start, int end) {
-		
+	static void getBinaryMultiple(StringBuilder sb, int end) {
+		for(int i = 10 ; i < end + 10 ; i++) {
+			sb.append("^ ").append(i).append(" ").append(i+1).append("\n");
+		}
 	}
 	
 	
