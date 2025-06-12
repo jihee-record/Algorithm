@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 // gcd
-public class Main_백준_15998_카카오머니_G3 {
+public class Main_백준_15998_카카오머니_G3_412ms {
 	
 	static long gcd(long a, long b) {
         while (b != 0) {
