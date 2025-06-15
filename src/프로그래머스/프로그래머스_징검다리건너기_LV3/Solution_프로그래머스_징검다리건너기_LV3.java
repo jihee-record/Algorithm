@@ -1,9 +1,9 @@
-package 프로그래머스.프로그래머스_코테연습.프로그래머스_코테연습_징검다리건너기_LV3;
+package 프로그래머스.프로그래머스_징검다리건너기_LV3;
 
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class Solution_프로그래머스_코테연습_징검다리건너기_LV3 {
+public class Solution_프로그래머스_징검다리건너기_LV3 {
 
 	public int solution(int[] stones, int k) {
         int answer = Integer.MAX_VALUE;
