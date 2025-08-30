@@ -31,7 +31,7 @@ public class Main_백준_11664_선분과점_G4_124ms {
 
         double[] AB = {coordi[1][0] - coordi[0][0], coordi[1][1] - coordi[0][1], coordi[1][2] - coordi[0][2]};
         double[] AC = {coordi[2][0] - coordi[0][0], coordi[2][1] - coordi[0][1], coordi[2][2] - coordi[0][2]};
-        double[] BC = {coordi[2][0] - coordi[1][0], coordi[2][1] - coordi[1][1], coordi[2][2] - coordi[1][2]};
+//        double[] BC = {coordi[2][0] - coordi[1][0], coordi[2][1] - coordi[1][1], coordi[2][2] - coordi[1][2]};
 
         // AC·AB
         double dotACAB = AB[0] * AC[0] + AB[1] * AC[1] + AB[2] * AC[2];
