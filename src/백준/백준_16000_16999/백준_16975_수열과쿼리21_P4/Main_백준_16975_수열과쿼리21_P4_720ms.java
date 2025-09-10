@@ -1,4 +1,4 @@
-package 백준.백준_16000_16999.백준_16975_수열과쿼리21;
+package 백준.백준_16000_16999.백준_16975_수열과쿼리21_P4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
