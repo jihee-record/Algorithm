@@ -1,4 +1,4 @@
-package 코드트리.코드트리_삼성SW역량테스트.코드트리_토스트계란틀_L11_2;
+package 코드트리.코드트리_삼성SW역량테스트.코드트리_토스트계란틀_L11;
 
 import java.io.BufferedReader;
 import java.io.IOException;
