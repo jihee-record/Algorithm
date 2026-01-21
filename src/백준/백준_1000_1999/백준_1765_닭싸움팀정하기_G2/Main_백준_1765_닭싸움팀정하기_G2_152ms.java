@@ -38,6 +38,7 @@ public class Main_백준_1765_닭싸움팀정하기_G2_152ms {
 		friend(person, e);
 	}
 	
+	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
