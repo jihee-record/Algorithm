@@ -1,4 +1,4 @@
-package 백준.백준_10000_10999.백준_11053_가장긴증가하는부분수열_S2;
+package 백준.백준_11000_11999.백준_11053_가장긴증가하는부분수열_S2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
