@@ -1,0 +1,22 @@
+-- mysql
+SELECT APNT_NO
+     , PT_NAME
+     , A.PT_NO
+     , A.MCDP_CD
+     , DR_NAME
+     , APNT_YMD
+FROM (
+    SELECT APNT_NO
+         , APNT_YMD
+         , PT_NO
+         , MCDP_CD
+         , MDDR_ID
+    FROM APPOINTMENT  
+    WHERE APNT_YMD BETWEEN '2022-04-13 00:00:00' AND '2022-04-13 23:59:59'
+    AND APNT_CNCL_YN != 'Y'
+) A
+JOIN  PATIENT P
+ON A.PT_NO = P.PT_NO
+JOIN DOCTOR D
+ON A.MDDR_ID = D.DR_ID
+ORDER BY APNT_YMD
